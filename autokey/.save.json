@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "savehack", 
+    "description": "save", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 

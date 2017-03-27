@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "undohack", 
+    "description": "undo", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 

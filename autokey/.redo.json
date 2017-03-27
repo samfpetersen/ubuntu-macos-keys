@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "redohack", 
+    "description": "redo", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 

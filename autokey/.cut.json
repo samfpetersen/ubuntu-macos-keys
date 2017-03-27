@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "cuthack", 
+    "description": "cut", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 

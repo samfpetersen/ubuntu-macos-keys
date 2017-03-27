@@ -2,7 +2,7 @@
     "usageCount": 1, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "selectallhack", 
+    "description": "selectall", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 

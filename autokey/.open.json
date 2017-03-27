@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "openhack", 
+    "description": "open", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 

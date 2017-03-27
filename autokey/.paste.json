@@ -2,7 +2,7 @@
     "usageCount": 88, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "pastehack", 
+    "description": "paste", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 

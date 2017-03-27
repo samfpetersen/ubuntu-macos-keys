@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "newtabhack", 
+    "description": "newtab", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 

@@ -2,7 +2,7 @@
     "usageCount": 68, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "copyhack", 
+    "description": "copy", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 

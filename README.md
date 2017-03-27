@@ -4,9 +4,9 @@ Ubuntu key-binding configuration to emulate some common macOS key-bindings
 Tested in a Ubuntu 16.04 VMWare Fusion VM on a Macbook Pro
 
 ## Install CompizConfig Settings Manager
-`sudo apt-get install compizconfig-settings-manager`
+`# apt-get install compizconfig-settings-manager`
 ## Install AutoKey
-`sudo apt-get install autokey-gtk`
+`# apt-get install autokey-gtk`
 
 ## Set CCSM Settings
 1. Launch CompizConfig Settings Manager
